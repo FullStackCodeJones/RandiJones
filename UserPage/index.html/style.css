@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(98, 0, 98);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+.navbar{
+    background-color: rgb(100, 3, 100);
+}
+.navbar a {
+    color: orangered;
+    font-weight: 400;
+}
+
+h1{
+    color: orangered;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+hr{
+    border-style: solid;
+    border-color: orangered;
+}
+
+p{
+    color: orangered;
+    font-weight: 300;
+    border: thick;
+}

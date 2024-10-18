@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(98, 0, 98);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+.navbar{
+    background-color: rgb(100, 3, 100);
+}
+.navbar a {
+    color: orangered;
+    font-weight: 400;
+}
+
+h1{
+    color: orangered;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h5{
+    color: orangered;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+td, tr {
+    color: orangered;
+    font-size: medium;
+    font-weight: 100;
+    font-style:normal;
+}
+.list-group a{
+text-decoration: none;
+color: orangered;
+
+}
+
+hr{
+    border-style: solid;
+    border-color: orangered;
+}
+
+p{
+    color: orangered;
+    font-weight: 300;
+    border: thick;
+}
